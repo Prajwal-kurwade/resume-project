@@ -3,15 +3,6 @@ T# Personal Resume Website
 A modern and responsive Resume Portfolio Website built using HTML, CSS, JavaScript, and Bootstrap.  
 This project showcases my skills, education, projects, and contact information in a professional way.
 
----
-
-## 🚀 Live Demo
-Add your GitHub Pages link here:
-
-https://prajwal-kurwade.github.io/resume-website/
-
----
-
 ## 📌 Features
 
 ✅ Responsive Design  
